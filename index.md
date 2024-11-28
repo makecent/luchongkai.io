@@ -8,7 +8,7 @@ permalink: /
 
 ## Welcome to chongkai.site
 
-I am a PhD student at the Hong Kong Polytechnic University. My research interests are in computer vision and deep learning. 
+I am currently a postdoc researcher of Otolaryngology Department, Eye & ENT Hospital of Fudan University. My research interests are in artifical intelligence.
 
 This is my personal website, which covers my [collections] (https://chongkai.site/docs/collections/), [posts] (https://chongkai.site/docs/posts/), and other interesting things. 
 
