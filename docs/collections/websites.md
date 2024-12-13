@@ -7,7 +7,7 @@ nav_order: 7
 1. TOC
 {:toc}
 
-# [ping0.cc(https://ping0.cc/)]
+# [ping0.cc](https://ping0.cc/)
 Get the number, location and quality of your IP address.
 
 ![image](https://github.com/user-attachments/assets/0e97470f-2d60-4ca9-a136-bdfc3518251f)
