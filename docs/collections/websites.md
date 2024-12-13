@@ -7,6 +7,16 @@ nav_order: 7
 1. TOC
 {:toc}
 
+# [ping0.cc(https://ping0.cc/)]
+Get the number, location and quality of your IP address.
+
+![image](https://github.com/user-attachments/assets/0e97470f-2d60-4ca9-a136-bdfc3518251f)
+
+# [Snipaste](https://www.snipaste.com/)
+The best screenshot software. The **Paste as Image window** function is now an indispensable part of my workflow.
+
+![snipaste-work-example](https://github.com/makecent/makecent.github.io/assets/42603768/7e5f4589-66c1-4acf-9fc6-3745518309a7)
+
 # [DownGit](https://downgit.github.io/#/home)
 Download a github repository or its **subfolder**.
 
@@ -24,10 +34,6 @@ Show the different of two versions of `tex` in PDF format. Better than any PDF-c
 
 ![image](https://user-images.githubusercontent.com/42603768/231727141-a18783af-3a02-4e34-95b4-1eadf53809e8.png)
 
-# [Snipaste](https://www.snipaste.com/)
-The best screenshot software. The **Paste as Image window** function is now an indispensable part of my workflow.
-
-![snipaste-work-example](https://github.com/makecent/makecent.github.io/assets/42603768/7e5f4589-66c1-4acf-9fc6-3745518309a7)
 
 # [Mathway](https://www.mathway.com/Algebra)
 It can solve the equation in chat style.
