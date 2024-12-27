@@ -95,7 +95,7 @@ sh Miniconda3-latest-Linux-x86_64.sh
 sudo rm Miniconda3-latest-Linux-x86_64.sh
 conda update -n base -c defaults conda  # restart the terminal before run this line
 ```
-Since we are talking about the deep learning, we'd better to install full `anaconda`, which has pre-installed many python packages for daily use in **data science** compared to `miniconda`.
+If you do not know which package to install or know but do not want to install them one-by-one, you could just install `anaconda`. It already includes 160+ python packages for daily use in **data science**.
 ```
 conda install anaconda
 ```
