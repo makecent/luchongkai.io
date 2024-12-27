@@ -88,12 +88,16 @@ sudo apt install git
 ```
 
 # Install Anaconda
-Here we install the [miniconda](https://docs.conda.io/en/latest/miniconda.html#)
+First we install the [miniconda](https://docs.conda.io/en/latest/miniconda.html#), which is a light version of anaconda.
 ```shell
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 sh Miniconda3-latest-Linux-x86_64.sh 
 sudo rm Miniconda3-latest-Linux-x86_64.sh
 conda update -n base -c defaults conda  # restart the terminal before run this line
+```
+Since we are talking about the deep learning, we'd better to install full `anaconda`, which has pre-installed many python packages for daily use in **data science** compared to `miniconda`.
+```
+conda install anaconda
 ```
 
 # Install CUDA (optional)
