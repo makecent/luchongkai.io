@@ -179,6 +179,13 @@ curl ifconfig.me
 sudo -E ...
 ```
 
+### Use VPN proxy in terminal
+```terminal
+export http_proxy=http://localhost:7890
+export https_proxy=http://localhost:7890
+```
+replace the port number with your VPN port number
+
 # tmux
 start new:
 
